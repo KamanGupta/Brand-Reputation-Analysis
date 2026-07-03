@@ -1,4 +1,4 @@
-# MBA631_BRI
+# Brand Reputation Analysis
 
 Welcome to the MBA631_BRI repository.
 
